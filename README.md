@@ -1,4 +1,4 @@
-# Project Ventanas
+# Ruin House
 
 ![Logo](https://github.com/CatalaHD/Project_Ventanas/blob/master/icon.png "Logo")
 
