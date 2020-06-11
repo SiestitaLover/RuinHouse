@@ -1,6 +1,6 @@
 # Ruin House
 
-![Logo](https://github.com/CatalaHD/Project_Ventanas/blob/master/icon_Game.png "Logo")
+![Logo](https://github.com/SiestitaLover/RuinHouse/blob/master/icon_Game.png "Logo")
 
 ## Engine
 Developed with Unreal Engine 4
